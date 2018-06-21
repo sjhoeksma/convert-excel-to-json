@@ -337,6 +337,11 @@ const result = excelToJson({
 ```
 ## Extra Config
 
+### addRowId
+
+Will add a "id" based on the active row to each object
+
+
 ### outputJSON
 
 To *console.log* the result.
